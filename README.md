@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Eğitimi kapsamında açtığım ilk repo , içerisinde bir adet README.md, bir adet de index.html barındırıyor.
 
-![Ekran Görüntüsü](ss.png)
+![Ekran Görüntüsü](images/ss.png)
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
